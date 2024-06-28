@@ -4,8 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Kai-the-great/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Kai-the-great/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Kai-the-greatticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Kai-the-great/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kai-the-great/azure-network-protocols)
