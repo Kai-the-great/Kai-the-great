@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khalee, an <a href="https://linkedin.com/khalee-b">IT Professional</a>☺</h1>
+<h1>Hi, I'm Khalee, an <a href="https://www.linkedin.com/in/khalee-b-720310191/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,4 +16,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/khalee-b
+[linkedin]: [https://linkedin.com/](https://www.linkedin.com/in/khalee-b-720310191/)
